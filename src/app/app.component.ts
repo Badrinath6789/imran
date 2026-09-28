@@ -13,8 +13,8 @@ export class AppComponent implements OnInit, AfterViewInit, OnDestroy {
   brideMother = 'Sk Khayrunnissa';
 
   groomName = 'Imran Pathan';
-  groomFather = 'Rahaman';
-  groomMother = 'Mahabhi';
+  groomFather = 'P Rahaman';
+  groomMother = 'P Mahabhi';
 
   /* ================= ENGAGEMENT DETAILS ================= */
   engagementDate = '04 October 2026';
