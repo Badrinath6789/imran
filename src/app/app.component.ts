@@ -13,12 +13,12 @@ export class AppComponent implements OnInit, AfterViewInit, OnDestroy {
   brideMother = 'Sk Khayrunnissa';
 
   groomName = 'Imran Pathan';
-  groomFather = 'Mahabhi';
-  groomMother = 'Mahabi';
+  groomFather = 'Rahaman';
+  groomMother = 'Mahabhi';
 
   /* ================= ENGAGEMENT DETAILS ================= */
   engagementDate = '04 October 2026';
-  engagementDateForCountdown = 'October 04, 2026 18:00:00';
+  engagementDateForCountdown = 'October 04, 2026 13:00:00';
   engagementTime = '1:00 PM onwards';
 
   /* ================= VENUE ================= */
