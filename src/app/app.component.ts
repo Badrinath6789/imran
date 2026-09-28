@@ -24,7 +24,7 @@ export class AppComponent implements OnInit, AfterViewInit, OnDestroy {
   /* ================= VENUE ================= */
   venueName = 'Purushottam Patnam,Peerla Manyam';
   venueAddress = 'Near Huda Kareem Masjid,Palnadu District, Andhra Pradesh';
-  mapUrl = 'https://maps.app.goo.gl/MgzaTEciCpC4AdJ76?g_st=ac';
+  mapUrl = 'https://maps.app.goo.gl/GSPHxSgK6fQRLSpV7';
 
   /* ================= ENVELOPE INTRO ================= */
   opened = false;
